@@ -1,0 +1,6 @@
+{
+  "name": "mapbox-studio-mars-satellite",
+  "version": "1.0.0",
+  "description": "Mars Satellite + labels",
+  "main": "./package.json"
+}

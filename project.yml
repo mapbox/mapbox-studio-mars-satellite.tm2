@@ -1,0 +1,25 @@
+_prefs: 
+  mapid: ''
+  saveCenter: false
+_properties: {}
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 136.582
+  - -10.0987
+  - 4
+description: Mars Satellite + labels
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 10
+minzoom: 0
+name: Mars Satellite
+source: "mapbox:///mapbox.mars-satellite,mapbox.mars-terrain-v1"
+styles: 
+  - style.mss
+template: ''
